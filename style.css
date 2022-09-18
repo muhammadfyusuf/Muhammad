@@ -1,0 +1,279 @@
+*{
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: #000;
+}
+.navbar{
+    position: relative;
+   background-color:  #fff;
+    width: 100%;
+    height: 100px;
+}
+.head-2{
+    position: absolute;
+    left: 200px;top: 30px;
+}
+.text-1{
+    position: absolute;
+    left: 700px;
+    top: 30px;
+}
+.text-2{
+    position: absolute;
+    left: 800px;
+    top: 30px;
+}
+.text-3{
+    position: absolute;
+    left: 900px;
+    top: 30px;
+}
+.text-4{
+    position: absolute;
+    left: 1000px;
+    top: 30px;
+}
+.text-5{
+    position: absolute;
+    left: 1100px;
+    top: 30px;
+}
+.text-6{
+    position: absolute;
+    left: 1200px;
+    top: 30px;
+}
+.text-7{
+    position: absolute;
+    left: 1300px;
+    top: 30px;
+}
+.Login{
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    border: none;
+    background-color: darkturquoise;
+    right: 430px;
+    border-radius: 10%;
+    top: 15px;
+    color: white;
+}
+.Join{
+    width: 130px;
+    height: 50px;
+   position: absolute;
+   border: none;
+   background-color: darkturquoise;
+   border-radius: 10%;
+   right: 290px;
+   top: 15px;
+   color: white;
+}
+.Login:hover{
+    background-color: blue;
+    transition: 300ms;
+}
+.Join:hover{
+    background-color: blue;
+    transition: 300ms;
+}
+.h2{
+    color: white;
+}
+.img{
+    width: 100%;
+    height: 1000px;
+}
+.div{
+    position: absolute;
+     width: 700px;
+     height:  300px;
+    top: 450px;
+    left: 700px;
+}
+.lorem{
+    color: #fff;
+}
+.lorem-min{
+    color: #fff;
+    position: absolute;
+    left: 200px;
+}
+.Start{
+    position: absolute;
+    border: none;
+    background-color: darkturquoise;
+    width: 240px;
+    height: 70px;
+    border-radius: 100px;
+    top: 120px;
+    left: 180px;
+}
+.sSs{
+    color: #fff;
+}
+.Start:hover{
+    background-color: blue;
+    transition: 300ms;
+}
+.cotact{
+    width: 800px;
+    height: 300px;  
+    position: relative;
+    top: 280px;
+    left: 650px;
+}
+.head{
+    position: absolute;
+    top: 1300px;
+    left: 740px;
+}
+.cllas{
+    position: absolute;
+    left: 130px;
+}
+.contener{
+    position: relative;
+    width: 1500px;
+    height: 300px;
+    
+    left: 200px;    
+    top: 100px;
+}
+.box-1{
+    position: absolute;
+    width: 350px; 
+    height: 280px;
+    top: 150px;
+    
+}
+.box-2{
+    position: absolute;
+    width: 350px; 
+    height: 280px;
+    top: 150px; 
+    left: 330px;
+}
+
+.box-3{
+    position: absolute;
+    width: 350px; 
+    height: 280px;
+    top: 150px;
+    left: 700px;
+}
+.box-4{
+    position: absolute;
+    width: 350px; 
+    height: 280px;
+    top: 150px;
+   right: 100px;    
+}
+.img-1{
+    width: 100%;
+    height: 200px;
+    position: absolute;
+    top: 2500px;
+}
+.tes{
+    position: absolute;
+    top: 2600px;
+    left: 200px;
+    color: #fff; 
+}
+.tes-1{
+    position: absolute;
+    top: 2600px;
+    left: 700px;
+    color: #fff;
+}
+.tes-2{
+    position: absolute;
+    top: 2600px;
+    left: 1100px;
+    color: #fff;
+}
+.tes-3{
+    position: absolute;
+    top: 2600px;
+    left: 1600px;
+    color: #fff;
+}
+.icon{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    bottom: 280px;
+    left: 50px;
+}
+.icon-1{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    bottom: 280px;
+    left: 80px;
+}
+.icon-2{
+position: absolute;
+width: 50px;
+height: 50px;
+bottom:  140px;
+left: 740px;
+}
+.icon-3{
+position: absolute;
+width: 50px;
+height: 50px;
+bottom:  140px;
+left: 1070px;
+}
+.icon-4{
+position: absolute;
+width: 50px;
+height: 50px;
+left: 60px;
+top:  -60px;
+}
+.icon-5{
+position: absolute;
+width: 50px;
+height: 50px;
+left: 40px;
+top:  -60px;
+}
+.icon-6{
+position: absolute;
+width: 50px;
+height: 50px;
+left: 40px;
+top:  -60px;
+
+}
+.icon-7{
+position: absolute;
+width: 50px;
+height: 50px;
+left: 40px;
+top:  -60px;    
+}
+.icon-8{
+position: absolute;
+}
+.icon-9{
+position: absolute;
+}
+.icon-01{
+position: absolute;
+}
+.icon-02{
+position: absolute;
+}
+
+
+
+
+
